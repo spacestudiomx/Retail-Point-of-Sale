@@ -1,0 +1,18 @@
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Businesslayer.dll
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Datalayer.dll
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Businesslayer.pdb
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Businesslayer.dll.config
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Datalayer.pdb
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.csprojAssemblyReference.cache
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\Datalayer.dll.config
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\EntityFramework.dll
+C:\Users\switchmx\Documents\SpaceStudios\Retail-Point-of-Sale\Retail Point of Sale\Point of Sale\bin\Debug\EntityFramework.xml
