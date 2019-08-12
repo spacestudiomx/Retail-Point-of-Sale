@@ -9,8 +9,7 @@ namespace Datalayer
 {
     public class ModelContext : DbContext
     {
-        public ModelContext() : base("name=conexion") { }
-        //public DbSet<Model.Auditoria> Auditoria { get; set; }
+        public ModelContext() : base("name=conexion") { } 
         public DbSet<Model.User> User { get; set; }
 
     }

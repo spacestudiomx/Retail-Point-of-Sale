@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Datalayer.Model
 {
-    public class User:Auditoria
+    public class User : Auditoria
     {
         [Key]
         public int Id { get; set; }
-           
+
         [MaxLength(200)]
         [Display(Name = "Nombre Completo")]
         public string Name { get; set; }
@@ -28,12 +28,12 @@ namespace Datalayer.Model
         [Display(Name = "Password")]
         public string Password { get; set; }
 
-        [MaxLength(200)]
         [Display(Name = "Status")]
         public bool Status { get; set; }
 
-
-
+        [StringLength (255)]
+        [Display(Name = "Image")]
+        public string ImageUrl { get; set; }
 
     }
 }

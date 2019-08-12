@@ -48,6 +48,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201908102014334_Se agrega tabla de usuarios.cs" />
+    <Compile Include="Migrations\201908102014334_Se agrega tabla de usuarios.Designer.cs">
+      <DependentUpon>201908102014334_Se agrega tabla de usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908102022557_Se agrega Campo para imagen del Usuario.cs" />
+    <Compile Include="Migrations\201908102022557_Se agrega Campo para imagen del Usuario.Designer.cs">
+      <DependentUpon>201908102022557_Se agrega Campo para imagen del Usuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Auditoria.cs" />
     <Compile Include="ModelContext.cs" />
@@ -57,6 +65,14 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201908102014334_Se agrega tabla de usuarios.resx">
+      <DependentUpon>201908102014334_Se agrega tabla de usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908102022557_Se agrega Campo para imagen del Usuario.resx">
+      <DependentUpon>201908102022557_Se agrega Campo para imagen del Usuario.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
